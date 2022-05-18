@@ -1,0 +1,16 @@
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.exe
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.json
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.dev.json
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\bin\Debug\net5.0\ref\ConsoleUI.dll
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.AssemblyReference.cache
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
+D:\Programlama\Csharp\ReCapProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache
